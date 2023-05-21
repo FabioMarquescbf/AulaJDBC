@@ -1,2 +1,2 @@
-# AulaJDBC
+# JDBC
 Primeira JDBS
